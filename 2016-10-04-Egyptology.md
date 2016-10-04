@@ -15,7 +15,8 @@ While the excavation and discovery of these tombs has historical significance on
 
 This liveliness caught me off guard, and reminds me that the study of history always lives and breaths, not confined to memory or buried between the covers of a textbook.
 
-![Ramses II Mummy](https://upload.wikimedia.org/wikipedia/commons/8/84/Mummy_of_Ramesses_II_-_02.JPG)
-
-
 ![Ramses II](https://upload.wikimedia.org/wikipedia/en/7/7d/Colossus_of_Ramesses_II_restored.jpg)
+
+The newspaper discusses a work by Dr. Petrie, _[A History of Egypt during the XVIIth and XVIIIth Dynasties](https://archive.org/details/cu31924085360844)_, offering a condensed review of the material, and harsh criticism of Dr. Petrie's commentary on the work of other archaeologists.
+
+This commentary reveals some valuable context behind the study of history, as well as the history itself, and brings to life the real characters behind the study of Egyptology that we often romanticize in pop culture.
