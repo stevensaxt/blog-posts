@@ -3,11 +3,20 @@ layout: page
 title: "Egyptology & Archeology"
 teaser: "A curiosity"
 date: 2016-10-04
+categories:
+  - curiosities
 author: Gwen Lofman
-tags: -egyptology -archeology -ramses -excavation
+tags:
+  - egyptology
+  - archeology
+  - ramses
+  - excavation
 image:
-  header: ""
-  thumb: "https://upload.wikimedia.org/wikipedia/en/7/7d/Colossus_of_Ramesses_II_restored.jpg"
+  header: no
+  thumb: blog-images/1905-10-06_HistoryOfEgypt.png
+  homepage: blog-images/1905-10-06_HistoryOfEgypt.png
+  caption: blog-images/1905-10-06_HistoryOfEgypt.png
+  link: blog-images/1905-10-06_HistoryOfEgypt.png
 ---
 [Egyptology](https://www.britannica.com/science/Egyptology) has caputured pop-culture imagination owing to movies like _The Mummy_, and exhibits like King Tut.  Films often emphasize the mysticism, magic, or exoticism of Egyptian artefacts and Tombs.  The Egyptian Gazette, however, provides a closer perspective, both in time and location.
 
