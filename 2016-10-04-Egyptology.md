@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Egyptology"
+title: "Egyptology & Archeology"
 teaser: "A curiosity"
 date: 2016-10-04
 author: Gwen Lofman
