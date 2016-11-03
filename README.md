@@ -10,7 +10,7 @@ category:
 - curiosity
 author:<!-- HannahSain -->
 tags:
-- <tag>soap</tag><tag>medicine</tag><tag>sanitation</tag><tag>poison</tag>
+-<tag>soap</tag><tag>medicine</tag><tag>sanitation</tag><tag>poison</tag>
 header: no
 image: <-- soap ad.png -->
     title: "soap ad.png"
