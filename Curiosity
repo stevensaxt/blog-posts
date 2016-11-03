@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+---
+layout: page
+subheadline: "Hannah Sain"
+title: "Clean Killer"
+teaser: "Soap producers have been using an extra ingrident in their product that cleans off more than just dirt. Manufacturers have been adding a chemical in their soaps that can remove skin tissue."
+date: <!-- 2016-11-03 -->
+categories:
+- curiosities
+author:<!-- HannahSain -->
+tags:
+- <tag>soap</tag><tag>hygiene</tag><tag>sanitation</tag><tag>poison</tag>
+header: no
+image: <-- soap ad.png -->
+    title: blog-images/soap ad.png
+    thumb: blog-images/soap ad.png
+    homepage:blog-images/soap ad.png
+    caption: <!-- This was an ad from the same issue as where the article was found(Egyptian Gazette,1905)  -->
+    caption_url: <!-- link-to-page-containing-text? -->>
+    ---
+    During a time when merchandise regulation is not nearly as controlled as it is now, it can be expected that there will be defaults in the products produced. 
+    
+    ![Sunlight Soap](soap ad.png)
+    ![Pear Soap](pear soap.png)
+    ![Original Article](original article.png)
