@@ -1,6 +1,5 @@
 # blog-posts
 Repository for draft blog posts pre-publication.
-<?xml version="1.0" encoding="UTF-8"?>
 ---
 layout: page
 subheadline: "Hannah Sain"
