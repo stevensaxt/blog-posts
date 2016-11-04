@@ -1,17 +1,12 @@
 ---
 layout: page
 title: "Egyptology"
-teaser: "A curiosity"layout: page
-subheadline:"Hannah Sain"
-title: "Clean Killer"
-teaser: "Soap producers have been using an extra ingrident in their product that cleans off more than just dirt. Manufacturers have been adding a chemical in their soaps that can remove skin tissue."
-date: <!-- 2016-11-03 -->
-category:
-- curiosity
-author:<!-- HannahSain -->
-tags:
--<tag>soap</tag><tag>medicine</tag><tag>sanitation</tag><tag>poison</tag>
-header: no
+teaser: "A curiosity"
+date: 2016-10-04
+author: Gwen Lofman
+tags: -egyptology -archeology -ramses -excavation
+image:
+  header: ""
 image: <-- soap ad.png -->
     title: "soap ad.png"
     thumb: "soap ad.png"
