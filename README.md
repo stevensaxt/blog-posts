@@ -8,7 +8,7 @@ categories:
 - curiosities
 author: HannahSain
 tags:
-- soap -medicine -sanitation
+- soap  -medicine  -sanitation
 header: The Serious Side of Soap
 image:
     title: ![Sunlight Soap](soap ad.png)
