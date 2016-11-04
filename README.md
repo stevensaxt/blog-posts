@@ -10,10 +10,11 @@ author: HannahSain
 tags: -soap  -medicine  -sanitation
 header: The Serious Side of Soap
 image:
-    title: ![Serious](soap ad.png)
-    thumb: ![Sunlight Soap](soap ad.png)
-    homepage: ![Sunlight Soap](soap ad.png)
-    caption: Image was printed in 1905 to promote a "safe" soap in the same newspaper issue that mentioned harmful soap products.
+    
+   title: ![Original Article](original article.png)
+   thumb: ![Original Article](original article.png)
+   homepage: ![Original Article](original article.png)
+   caption: Image was printed in 1905 to promote a "safe" soap in the same newspaper issue that mentioned harmful soap products.
 ---
     
 During a time when merchandise regulation is not nearly as controlled as it is now, it can be expected that there will be defaults in the products produced. [Salicylate of soda](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2220712/?page=1 Define Salicylate of Soda") was thought to have restorative effects during the mid to late 19th century. It was often recommended to people with joint disease, such as rheumatism, to alleviate pain.  At first the [negative side effects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1322509/?page=7) associated with salicylate of soda reported were minor, like a relapse in pain after the salicylate of soda was no longer being used. Many users had to be gradually weaned from the chemical. 
