@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Egyptology"
+title: "Cynical Soap"
 teaser: "A curiosity"
 date: 2016-10-04
 author: Gwen Lofman
