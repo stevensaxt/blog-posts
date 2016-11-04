@@ -1,22 +1,26 @@
 ---
 layout: page
+subheadline:"Hannah Sain"
 title: "Cynical Soap"
-teaser: "A curiosity"
-date: 2016-10-04
-author: Gwen Lofman
-tags: -egyptology -archeology -ramses -excavation
-image:
-  header: ""
-  thumb: "https://upload.wikimedia.org/wikipedia/en/7/7d/Colossus_of_Ramesses_II_restored.jpg"
+teaser: "Soap producers have been using an extra ingrident in their product that cleans off more than just dirt. Manufacturers have been adding a chemical in their soaps that can remove skin tissue."
+date: <!-- 2016-11-03 -->
+category:
+- curiosity
+author:<!-- HannahSain -->
+tags:
+-soap -medicine -sanitation -poison
+header: no
+image: <-- soap ad.png -->
+    title: "soap ad.png"
+    thumb: "soap ad.png"
+    homepage: "soap ad.png"
+    caption: <!-- This was an ad from the same issue as where the article was found(Egyptian Gazette,1905)  -->
+    caption_url: <!-- link-to-page-containing-text? -->>
 ---
-[Egyptology](https://www.britannica.com/science/Egyptology) has caputured pop-culture imagination owing to movies like _The Mummy_, and exhibits like King Tut.  Films often emphasize the mysticism, magic, or exoticism of Egyptian artefacts and Tombs.  The Egyptian Gazette, however, provides a closer perspective, both in time and location.
-
-While the excavation and discovery of these tombs has historical significance on a global scale, the local perspective brings the actual characters that advanced the discovery of these relics to light.  The [newspaper](https://github.com/Lionex/dig-eg-gaz/blob/7dbde112756552ed412ee7145eb84208ffe34fd4/ocr/1905-10-06-p3.txt#L88) serves as a medium for criticism and discourse, which time and distance have buried.
-
-This liveliness caught me off guard, and reminds me that the study of history always lives and breaths, not confined to memory or buried between the covers of a textbook.
-
-![Ramses II](https://upload.wikimedia.org/wikipedia/en/7/7d/Colossus_of_Ramesses_II_restored.jpg)
-
-The newspaper discusses a work by Dr. Petrie, _[A History of Egypt during the XVIIth and XVIIIth Dynasties](https://archive.org/details/cu31924085360844)_, offering a condensed review of the material, and harsh criticism of Dr. Petrie's commentary on the work of other archaeologists.
-
-This commentary reveals some valuable context behind the study of history, as well as the history itself, and brings to life the real characters behind the study of Egyptology that we often romanticize in pop culture.
+    
+    During a time when merchandise regulation is not nearly as controlled as it is now, it can be expected that there will be defaults in the products produced. [Salicylate of soda](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2220712/?page=1 Define Salicylate of Soda") was thought to have restorative effects during the mid to late 19th century. It was often recommended to people with joint disease, such as rheumatism, to alleviate pain.  At first the [negative side effects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1322509/?page=7) associated with salicylate of soda reported were minor, like a relapse in pain after the salicylate of soda was no longer being used. Many users had to be gradually weaned from the chemical. A few years after its use in soap, physicians began noting that people who were repeated salicylate of soda users had painful skin and there was even a case of failing vision after taking a bath in the soap with the chemicals. In the early 1900s, manufacturers of soap products containing the chemical were ordered to stop production and were prosecuted by the [sanitary administration](https://books.google.com/books?id=5a-Uc3NJuPUC&pg=PA206&lpg=PA206&dq=1905+egyptian+sanitary+administration&source=bl&ots=pGXkko-vu3&sig=P6WCUO4P1BmN_u7Zm8Ny2nSY3Dc&hl=en&sa=X&ved=0ahUKEwi60p_rs4zQAhWSZiYKHXwdDTMQ6AEIHTAA#v=onepage&q=1905%20egyptian%20sanitary%20administration&f=false). Large soap companies during this time, like Pears’ Soap, were not being advertised because of the ordeal. Instead, the same issue of the newspaper that published the harmful soap announcement had an ad for Sunlight Soap, which advertises its lack of “obnoxious or harmful feature.” This small news brief gives insight about this time period, showing its lack of medical knowledge and its clever marketing methods. 
+    
+    ![Sunlight Soap](soap ad.png)
+    ![Pear Soap](pear soap.png)
+    ![Original Article](original article.png)
+    
