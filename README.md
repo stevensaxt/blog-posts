@@ -7,7 +7,7 @@ date: 2016-11-04
 categories:
 - curiosities
 author: HannahSain
-tags:-soap  -medicine  -sanitation
+tags: -soap  -medicine  -sanitation
 header: The Serious Side of Soap
 image:
     title: ![Sunlight Soap](soap ad.png)
