@@ -1,7 +1,7 @@
 ---
 layout: page
+# title: "Clean Killer"
 subheadline:"Hannah Sain"
-title: "Clean Killer"
 teaser: "Soap producers have been using an extra ingrident in their product that cleans off more than just dirt. Manufacturers have been adding a chemical in their soaps that can remove skin tissue."
 date: <!-- 2016-11-03 -->
 category:
