@@ -10,7 +10,7 @@ author: HannahSain
 tags: -soap  -medicine  -sanitation
 header: The Serious Side of Soap
 image:
-    title: Soap
+    title: ![Serious](soap ad.png)
     thumb: ![Sunlight Soap](soap ad.png)
     homepage: ![Sunlight Soap](soap ad.png)
     caption: Image was printed in 1905 to promote a "safe" soap in the same newspaper issue that mentioned harmful soap products.
