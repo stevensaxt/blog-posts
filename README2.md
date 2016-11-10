@@ -10,7 +10,7 @@ author: HannahSain
   -OCR -ABBYY -TextScanning
 header: no
 image: 
-  title: blog-images/ABBYY logo.JPG
+  title: ![blog-images](ABBYY logo.JPG)
   thumb: blog-images/ABBYY logo.JPG
   homepage: blog-images/ABBYY logo.JPG
   caption: The ABBYY logo and its official title
