@@ -1,16 +1,21 @@
 ---
-layout: no page
+layout: page
 subheadline: "Amber Fling"
 title: "Technical Reflection"
 teaser: "Get ready to work"
 date: 2016-11-14
 categories:
   - technical
-author: Amber Fling
+author: AmberFling
 tags:
   - coffee is necessary
   - dedicate hours
-header: Issues
+header: no
+image: <--Github.png-->
+  title: blog2-images/Github.png
+  thumb: blog2-images/Github.png
+  homepage: blog-images/Github.png
+  caption: <BlogPostInGithub>
 ---
 
 I'll admit, this has been a tasking adventure into the unknown world of
