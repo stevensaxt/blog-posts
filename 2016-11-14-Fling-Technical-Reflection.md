@@ -5,12 +5,13 @@ title: "Technical Reflection"
 teaser: "Get ready to work"
 date: 2016-11-14
 categories:
-  - curiosities
+  - technical
 author: Amber Fling
 tags:
   - coffee is necessary
   - dedicate hours
 header: Issues
+---
 
 I'll admit, this has been a tasking adventure into the unknown world of
 MicroHistory. This class has introduced to me: Microfilms, XML Coding
