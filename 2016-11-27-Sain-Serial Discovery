@@ -13,7 +13,7 @@ tags:
   -Poison
   -Pets
 header: no
-image: <--! for image-name.png, substitute name you've given your image file -->
+image:
   title: ![Snippet from Paper](Snippet from paper.png)
   thumb: ![Snippet from Paper](Snippet from paper.png)
   homepage: ![Snippet from Paper](Snippet from paper.png)
@@ -25,3 +25,4 @@ In some of the issues, under the “Local and General” section of the paper, t
  ![Two Dogs](two dog pic.png)
 
 ![image name](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/image-name.png?raw=true)
+
