@@ -11,8 +11,6 @@ tags: -Animals -Police -Poison -Pets
 header: no
 image:
   title: blog-images/Snippet from paper.png
-  thumb: blog-images/two dog pic.png
-  homepage: blog-images/picasso dog.png
   caption: Article Image From the 1905-09-05 Issue
 ---
 ![Snippet from Paper](Snippet from paper.png)
