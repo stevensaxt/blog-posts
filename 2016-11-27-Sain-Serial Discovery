@@ -1,17 +1,11 @@
 ---
 layout: page
-subheadline: "Hannah Sain"
-title: "Dead Doggies"
-teaser: "Dogs Found and Poisoned by Police if Unclaimed"
-date: 2016-11-27
-categories:
-  - Serial Questions
-author: hannahsain
-tags:
-  -Animals
-  -Police
-  -Poison
-  -Pets
+title: "Egyptology"
+teaser: "A curiosity"
+date: 2016-10-04
+author: Gwen Lofman
+tags: -egyptology -archeology -ramses -excavation
+image:
 header: no
 image:
   title: ![Snippet from Paper](Snippet from paper.png)
