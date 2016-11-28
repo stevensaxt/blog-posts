@@ -9,7 +9,7 @@ categories:
 author: hannahsain
 tags: -Animals -Police -Poison -Pets
 header: no
-image: <--! for image-name.png, substitute name you've given your image file -->
+image:
   title: blog-images/Snippet from paper.png
   thumb: blog-images/two dog pic.png
   homepage: blog-images/picasso dog.png
