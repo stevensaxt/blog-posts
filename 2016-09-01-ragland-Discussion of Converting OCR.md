@@ -12,9 +12,9 @@ tags:
   - OCR
 header: no
 image: <!--- for image-name.png, substitute name you've given your image file --->
-  title: blog-posts/Poor OCR.png
-  thumb: blog-posts/Poor OCR.png
-  homepage: blog-posts/Poor OCR.png
+  title: blog-posts/Poor-OCR.png
+  thumb: blog-posts/Poor-OCR.png
+  homepage: blog-posts/Poor-OCR.png
   caption: <!--- info about the image, such as date of issue --->
   caption_url: <!--- link-to-page-containing-text? --->
 ---
