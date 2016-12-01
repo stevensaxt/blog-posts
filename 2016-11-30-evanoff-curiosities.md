@@ -2,7 +2,7 @@ layout: page
 subheadline: "Your name"
 title: "Serial Question"
 teaser: "This project may kill me"
-date:  <!--- 2016-11-30 --->
+date: 2016-11-30
 categories:
   - curiosities
 author:  <!--- oliviaevanoff --->

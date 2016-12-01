@@ -2,7 +2,7 @@ layout: page
 subheadline: "Olivia Evanoff"
 title: "Death in Alexandria 1905"
 teaser: "People are croaking left and right!"
-date: 2016-00-00 <!--- 11/30/2016 --->
+date: 2016-11-30 <!--- 11/30/2016 --->
 categories:
   - curiosities
 author:  <!--- oliviaevanoff --->
