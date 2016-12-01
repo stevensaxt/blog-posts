@@ -1,3 +1,4 @@
+---
 layout: page
 subheadline: "Olivia Evanoff"
 title: "Death in Alexandria 1905"
