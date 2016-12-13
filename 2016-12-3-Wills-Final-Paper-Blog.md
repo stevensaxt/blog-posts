@@ -1,34 +1,38 @@
-Layout: page
+---
+layout: page
+subheadline: "Logan Wills"
 title: "Diplomatic Influence of Major Nations"
 teaser: "A look into the effect of major global events as evident in the Egyptian Gazette's writers"
-date: 2016-12-3
-author: Logan Wills
-tags: -Diplomacy-Writers-egyptian-gazette-OCR-microfilm
-header: "Diplomatic Influence on Egpyt"
+date: 2016-12-03
+author: LoganWills
+tags:
+  -Diplomacy
+  -Writers
+header: no
 image:
-thumb:![Image label](Blog-post-3-image.png)
-
-####Diplomatic Influence of Major Nations
-   
-   In the time of the Egyptian Gazette, and specifically the year 1905, many of the worlds 
-major powers resided in Europe and Asia, while the continent of Africa was behind.  For my 
-cereal question, I would like to take a look into the influence some of these major European and 
-Asian powers had evident in the Egyptian newspaper.  More specifically, I would like to look into 
-the results of the Anglo-Japanese Treaty, how it upset Russia, and the preparedness of Egypt in 
-he case of a global conflict.  Along with looking into these storylines throughout the issue, I 
+  title: blog-images/wills-Blog-post-3-image.png
+  thumb: blog-images/wills-Blog-post-3-image.png
+  homepage: blog-images/wills-Blog-post-3-image.png
+---
+    In the time of the Egyptian Gazette, and specifically the year 1905, many of the worlds 
+major powers resided in Europe and Asia, while the continent of Africa was behind.  For my
+cereal question, I would like to take a look into the influence some of these major European and
+Asian powers had evident in the Egyptian newspaper.  More specifically, I would like to look into
+the results of the Anglo-Japanese Treaty, how it upset Russia, and the preparedness of Egypt in
+he case of a global conflict.  Along with looking into these storylines throughout the issue, I
 would like to create an interactive map of sorts, labeling the main positions of these storylines.  
-If the user was to select a point on the map, a brief explanation of the situation, along with a 
-date would show up.  In my analysis I would like generally discuss Egypt’s reactions, their 
-opinions on the global treaties, as well as the effects of the agreements between foreign 
-nations.  I would mostly like to focus on the influence of England, and the resulting reactions of 
-Russia to movements made by the English, as they would regularly lead to a series of other 
-reactions.  Querying has resulted in a good amount of topics regarding Egyptian-English 
-relations, as well as on the topic of the Anglo-Japanese Treaty, and through varying the search 
+If the user was to select a point on the map, a brief explanation of the situation, along with a
+date would show up.  In my analysis I would like generally discuss Egypt’s reactions, their
+opinions on the global treaties, as well as the effects of the agreements between foreign
+nations.  I would mostly like to focus on the influence of England, and the resulting reactions of
+Russia to movements made by the English, as they would regularly lead to a series of other
+reactions.  Querying has resulted in a good amount of topics regarding Egyptian-English
+relations, as well as on the topic of the Anglo-Japanese Treaty, and through varying the search
 queries, plenty of data is available regarding this topic.    
-    The visual aid of this project is a map utilizing the app Palladio.  After spending hours 
+    The visual aid of this project is a map utilizing the app Palladio.  After spending hours
 attempting to find a way to save the Palladio file, the discovery of there being no way was made.
-In order for the map to be viewed, the text line at the bottom of this blog must be copied and 
-pasted into an editing software, such as oxygen.  Once the line of text has been pasted, this 
+In order for the map to be viewed, the text line at the bottom of this blog must be copied and
+pasted into an editing software, such as oxygen.  Once the line of text has been pasted, this
 oxygen file must be saved.  Using the second link at the bottom of the page, select load an existing
 project, then upload this saved oxygen file to this page, and the map will become visible.  
 
