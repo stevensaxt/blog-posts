@@ -18,18 +18,4 @@ image:
   homepage: blog-images/wills-The-Egyptian-Gazette.png
 ---
 
-In the time of the **Egyptian Gazette**, and specifically the year 1905, many of the world's
-major powers resided in Europe and Asia, while the continent of Africa was behind.  For my
-serial question, I would like to take a look into the influence some of these major European and
-Asian powers had evident in the Egyptian newspaper.  More specifically, I would like to look into 
-the results of the Anglo-Japanese Treaty, how it upset Russia, and the preparedness of Egypt in
-the case of a global conflict.  Along with looking into these storylines throughout the issue, I
-would like to create an interactive map of sorts, labeling the main positions of these storylines.  
-If the user was to select a point on the map, a brief explanation of the situation, along with a
-date would show up.  In my analysis I would like generally discuss Egypt’s reactions, their
-opinions on the global treaties, as well as the effects of the agreements between foreign
-nations.  I would mostly like to focus on the influence of England, and the resulting reactions of
-Russia to movements made by the English, as they would regularly lead to a series of other
-reactions.  Querying has resulted in a good amount of topics regarding Egyptian-English
-relations, as well as on the topic of the Anglo-Japanese Treaty, and through varying the search
-queries, plenty of data is available regarding this topic.
+This blog post is meant to iterate a reflection on the general process of the completion of the requirements of this class throughout the semester.  Having not really been sure what to expect from this class at the beginning of the semester, it has proved, despite at times being tedious, to be an interesting topic and certainly something I will not simply forget in the future.  This class has been drastically different from any other format I have ever experienced, and will go on to represent a neat sort of story to tell in my future.  Beginning with the scanning of a microfilm into about forty pictures was only the beginning of the long process of transforming the text on this microfilm to a more common and readable format via scanning the images into text files.  Had it not been for this part of the process, the class would have gone far more smoothly, and allowed for even greater research and analysis of the seemingly endless data available.  The OCR software was simply not good enough to read the text of the images in an accurate manner, and required the review of several tedious hours comparing the scanned text files to the original image files, as an attempt to keep the data of the images accurate.  While a majority of the semester was dedicated to this piece of the process, a majority of the focus was on analysis of the data throughout the duration of the semester.  Overall the class was generally interesting, despite the seemingly randomness of the topic, and the manner of grading and requirements was extremely fair.
