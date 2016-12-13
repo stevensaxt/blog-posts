@@ -6,17 +6,17 @@ teaser: "A look into the effect of major global events as evident in the Egyptia
 date: 2016-12-03
 author: LoganWills
 tags:
-  -Diplomacy
-  -Writers
+  - Diplomacy
+  - Writers
 header: no
 image:
   title: blog-images/wills-Blog-post-3-image.png
   thumb: blog-images/wills-Blog-post-3-image.png
   homepage: blog-images/wills-Blog-post-3-image.png
 ---
-    In the time of the Egyptian Gazette, and specifically the year 1905, many of the worlds 
+In the time of the Egyptian Gazette, and specifically the year 1905, many of the worlds
 major powers resided in Europe and Asia, while the continent of Africa was behind.  For my
-cereal question, I would like to take a look into the influence some of these major European and
+serial question, I would like to take a look into the influence some of these major European and
 Asian powers had evident in the Egyptian newspaper.  More specifically, I would like to look into
 the results of the Anglo-Japanese Treaty, how it upset Russia, and the preparedness of Egypt in
 he case of a global conflict.  Along with looking into these storylines throughout the issue, I
