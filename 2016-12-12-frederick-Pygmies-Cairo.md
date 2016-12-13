@@ -2,13 +2,13 @@
 layout: page
 subheadline: "Cassandra Frederick"
 title: "Pygmies at Cairo"
-teaser: "One liner"
+teaser: "A glimpse into an African culture from the eyes of the Egyptians."
 date: 2016-12-12
 categories:
   - Serial Questions
 author: cassandrafrederick
 tags:
-  - culture -pygmies -cairo
+  - culture -pygmies -Cairo
 header: no
 image: Blog_3.png
   thumb: blog-images/Blog_3.png
