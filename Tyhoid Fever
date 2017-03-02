@@ -1,0 +1,30 @@
+---
+layout: page
+subheadline: "Katherine Ferguson"
+title: "2017-03-01-Ferguson.Katherine.md"
+teaser: "Just Boil Your Water"
+date: 2017-03-01 <!--- 2017-03-01 --->
+categories:
+  - curiosities
+author: KatherineFerguson <!--- Katherine Ferguson --->
+tags:
+  - tag <!-- Medicine, Typhoid Fever, Dr.Leigh Canney -->
+header: Why did Typhoid Fever last so long when Dr. Leigh Canney had given the army lectures
+and research  on the importance of boiling water before drinking it?  
+image:
+  title: blog-images/BoilingWater1913.png <!---blog-images/BoilingWater1913.png --->
+  thumb: blog-images/BoilingWater1913.png
+  homepage: blog-images/BoilingWater1913.png
+  caption: <!--- Heat Engines, 1913 --->
+  caption_url: <!--- https://commons.wikimedia.org/wiki/File:Boiling_water_(Heat_Engines,_1913).jpg --->
+---
+Typhoid fever ravaged many armies, including the Egyptian. Therefore, extensive research was conducted in order to identify the source of infection and how to prevent it. Dr. Leigh Canney was on the forefront of this field in Egypt during the 18th century. “Dr. Leigh Canney was able to produce evidence from the reports of the Army Medical Department to show that the Army was ‘sanitarily untrained and unprotected’”. Furthermore, he recognized that enteric disease came from unsanitary water. However, the Army Medical Department did not want to hear it, this was not the answer they were looking for. Sir T Gallaway argued against boiling water before drinking stating that, “all our schemes for sterilization of water by boiling or otherwise have had no effect.” Dr. Leigh Canney persisted on not only the sterilization, but also the preservation of clean water. He urged the Army to keep clean water in enclosed clean bottles to prevent contact with flies and dust which could cause recontamination.
+Two days after this article was posted, 1905-12-06, a letter to the editor was published regarding the issues faced when implementing the rules on sanitary water. He states that boiling water and allowing it to cool after a hard days work in the desert is simply impossible, and “the system is not sufficiently practical to hold water”.  
+While both sides of the argument have made valid points, we now know that sanitizing drinking water is essential. Contaminated water houses pathogens such as Typhoid, Cholera, and a plethora of others. Although Typhoid had been identified in 1880, a vaccine was not developed and distributed until 1896, news-medical.net. The chlorination of water during the 20th century also reduced Typhoid prevalence. Currently, India, Pakistan and Egypt are “known as high risk areas for developing this disease,” medicinenet.com. 21 million people are infected annually worldwide, with over 200,000 deaths.
+http://www.news-medical.net/health/Typhoid-Fever-History.aspx
+http://www.medicinenet.com/typhoid_fever/article.htm
+
+
+If you wish to include a second image (other than your main image, which you indicate in the header), insert a reference in the following format into the body of your post:
+
+![Boiling Water 1913]](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/image-name.png?raw=true)
