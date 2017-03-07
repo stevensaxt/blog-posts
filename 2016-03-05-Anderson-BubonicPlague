@@ -1,0 +1,52 @@
+layout: page
+subheadline: "Your name"
+title: "Post title"
+teaser: "One liner"
+date: 2016-03-05 <!--- date of post submission --->
+categories:
+  - curiosities
+author: AlizaAnderson <!--- all one word --->
+tags:
+  - tag BubonicPlague
+header: "AlizaAnderson"Bubonic Plague. Once again the plague has struck with no signs of stopping. 2016-03-05
+image:
+  title: blog-images/image-name.png <!--- for image-name.png, substitute name you've given your image file --->
+  thumb: blog-images/image-name.png
+  homepage: blog-images/image-name.png
+  caption: Bubonic Plauge 1906-09-26
+  caption_url: <!--- link-to-page-containing-text? --->
+  ![Image label](The Presence of the Bubonic Plague 1906-09-26)
+---
+[Visit JMVH!](http://jmvh.org/article/the-history-of-plague-part-1-the-three-great-pandemics/)
+#The Bubonic Plague has Arrived
+##Striking Now in Egypt
+###Spread by Rats and Fleas
+The Bubonic Plague has been striking Egypt,
+including Alexandria. Many people have come
+down with the disease, and many have been
+admitted to hospitals. Deaths have also been
+associated with this deadly disease.
+The disease has turned into an epidemic since
+it once again arose from the depths of ancient
+times. [For Information about the Ancient Plagues Visit!]
+(https://www.cdc.gov/plague/history/)
+This new plague, still spread from rats and rat
+fleas, has taken over all parts of the world.
+Unfortunately, it has reached Egypt and Alexandria
+and has no signs of stopping anytime soon. Death
+rates are high for the disease, and in some
+cities without hospitals many people are at
+risk. People should stay away from many of the
+rats infecting cities, because who knows where the
+rats are transmitting the disease from. Many people
+die each day as reported in the newspapers, and more
+are being committed into hospitals at the same time.
+Many hope that the death rates of the plague decrease
+over time, but for many people whose family members'
+have already been infected have little hope for the
+future. Some talk about vaccines and ways to stop
+the disease, but we have not received any of it yet
+because people are still dying.
+If you wish to include a second image (other than your main image, which you indicate in the header), insert a reference in the following format into the body of your post:
+
+![image name](https://github.com/dig-eg-gaz/dig-eg-gaz.github.io/blob/master/images/blog-images/image-name.png?raw=true)
