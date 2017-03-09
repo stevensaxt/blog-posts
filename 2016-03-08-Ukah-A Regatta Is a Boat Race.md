@@ -14,7 +14,7 @@ image:
   title: blog-images/KHEDIVAL1.png
   thumb: blog-images/KHEDIVAL1.png
   homepage: blog-images/KHEDIVAL1.png
-  caption: Issue -- 8/28/1906, page 5: participating crafts for the regatta scheduled for 08/29/1906 <!--- info about the image, such as date of issue --->
+  caption: Issue -- 8/28/1906, page 5: participating crafts for the regatta scheduled for 08/29/1906
   caption_url:
 ---
 The Egyptian Gazette will occasionally feature a "Sport and Play." section, usually containing scores from  
