@@ -3,19 +3,19 @@ layout: page
 subheadline: "Kenneth Ukah"
 title: "A Regatta Is a Boat Race."
 teaser: "In this week's regatta, The Ananke aims for another first place finish after her successful debut in the Khedival Yacht Club. But what does that even mean?"
-date: 2016-03-08 <!--- date of post submission --->
+date: 2016-03-08
 categories:
   - curiosities
-author: KennethUkah <!--- all one word --->
+author: KennethUkah
 tags:
-  - regatta, race, yacht, club, khedival <!-- list subjects of your post -->
+  - regatta, race, yacht, club, khedival
 header: no
 image:
-  title: blog-images/KHEDIVAL1.png <!--- for image-name.png, substitute name you've given your image file --->
+  title: blog-images/KHEDIVAL1.png
   thumb: blog-images/KHEDIVAL1.png
   homepage: blog-images/KHEDIVAL1.png
   caption: Issue -- 8/28/1906, page 5: participating crafts for the regatta scheduled for 08/29/1906 <!--- info about the image, such as date of issue --->
-  caption_url: <!--- link-to-page-containing-text? --->
+  caption_url:
 ---
 The Egyptian Gazette will occasionally feature a "Sport and Play." section, usually containing scores from  
 cricket games. For the majority of this week, though, the section featured a regatta hosted by the Khedival  
