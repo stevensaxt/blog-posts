@@ -3,7 +3,7 @@ layout: page
 subheadline: "Kenneth Ukah"
 title: "A Regatta Is a Boat Race."
 teaser: "In this week's regatta, The Ananke aims for another first place finish after her successful debut in the Khedival Yacht Club. But what does that even mean?"
-date: 2016-03-08
+date: 2017-03-08
 categories:
   - curiosities
 author: KennethUkah
