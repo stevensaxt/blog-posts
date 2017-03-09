@@ -8,7 +8,11 @@ categories:
   - curiosities
 author: KennethUkah
 tags:
-  - regatta, race, yacht, club, khedival
+  - regatta
+  - race
+  - yacht
+  - club
+  - khedival
 header: no
 image:
   title: blog-images/KHEDIVAL1.png
@@ -37,7 +41,7 @@ ideal waters might be a reason for the success that yachting in Alexandria had s
 highly of the Khedival Yacht Club.
 
 1908 -- _Encyclopaedia of Ships and Shipping_, by Herbert B. Mason  
-pg 328: A general definition of the Khedival Yacht Club: "Established 1902. Patron, H. H. the Khedive of Egypt ;  
+pg. 328: A general definition of the Khedival Yacht Club: "Established 1902. Patron, H. H. the Khedive of Egypt ;  
 Commodore, H.H. Prince Aziz Pacha Hassan...Entrance fee, £3 ; annual subscription, £2."
 
 Based on the mention of an entrance fee, I assume that anyone could have participated in the regattas, and that the aforementioned  
@@ -52,5 +56,5 @@ To conclude, here are the results of the week in question's regatta:
 
 ![Regatta Results](KHEDIVAL3.png)
 
-The Ananke, a private-owned craft favored by the newspaper to win the race in its class, could not withstand the wind and  
+The Ananke, a privately owned craft favored by the newspaper to win the race in its class, could not withstand the wind and  
 waters that day, and had to forfeit the race.
