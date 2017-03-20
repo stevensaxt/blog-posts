@@ -8,7 +8,9 @@ categories:
   - curiosities
 author: TaylorCwikla
 tags:
-  - Miners, Accident, France
+  - Miners
+  - Accident
+  - France
 header: no
 image:
   title: blog-images/image-name.png <!--- for image-name.png, substitute name you've given your image file --->
