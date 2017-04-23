@@ -1,21 +1,21 @@
-
-##Joshua Story
-#The Untimely Death of Prince Mohamid Ibrahim
-##Freak Car Accident
-date: 2017-03-06
+---
+layout: page
+subheadline: "Joshua Story"
+title: "The Untimely Death of Prince Mohamid Ibrahim"
+teaser: "Freak Car Accident"
+date: 2017-03-06 <!--- date of post submission --->
 categories:
   - curiosities
-author: JoshuaStory
+author: JoshuaStory <!--- all one word --->
 tags:
-  - car accident
-  -famous death <!-- list subjects of your post -->
+  -car accidents
+  -famous death
 header: no
 image:
-  title: blog-images/princedeath.png
+  title: blog-images/princedeath.png  <!--- for image-name.png, substitute name you've given your image file --->
   thumb: blog-images/princedeath.png
   homepage: blog-images/princedeath.png
   caption: August 20, 1906
-
 ---
 The cousin of H.H. the Khedive, Prince Mohamid Ibrahim, was killed along with
 his driver in a rather unusual car accident. The accident report stated that
