@@ -1,0 +1,20 @@
+---
+layout: page
+subheadline: "Diana Fajardo"
+title: "Analysis of _The Road Man_"
+teaser: "One liner"
+date: 2017-03-08
+categories:
+  - curiosities
+author: dianafajardo
+tags:
+  - tag
+header: no
+image:
+  title: blog-images/1905-09-12P5.png
+  thumb: blog-images/image-name.png
+  homepage: blog-images/image-name.png
+  caption: <!--- 1905-09-12 P5 --->
+  caption_url: <!--- link-to-page-containing-text? --->
+---
+As a lover of fiction, I decided to pick a short story, named as _The Road Man_, for this assignment. The story pertains to a young fellow who always noticed an **elderly prophet** that always carries a hefty wheelbarrow. I was very amused to this piece because I notice many similarities between the prophet and your average college student. For instance, when the narrator mentions, “His skin, burnt almost black with sun and wind, his shaggy eyebrows and long white beard, suggest the prophets of ancient days”, reminded me of a college senior. As the prophet appears wore down from his exposure to the sun, one may compare that to how a senior appears exhausted, after years of sleep deprivation due to a tedious work load. Ironically, the narrator gave me the impression that he is a college freshman, because he is young and does not have the same years of experiences as to the prophet. Many college freshman will not understand a college seniors’ desire to undertake a tedious take due to the lack of experience. However, as the years pass by, college freshman’s will fulfill the seniors shoes, as the narrator will fill the prophet shoes. I believe this passage is very significant since it is still relevant after being composed 115 years ago.
