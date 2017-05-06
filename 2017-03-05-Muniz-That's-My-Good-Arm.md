@@ -20,6 +20,7 @@ image:
   caption_url: http://pixar.wikia.com/wiki/Mr._Potato_Head
 ---
 ![Newspaper Head](Baron's-Arm.png)
+
 Remember that crappy day you had, like yesterday? or how about the time you lost your phone for an hour? Those were horrible times, but at least you didn't lose your favorite arm like Baron London Bavastro de Cortazzi.
 
 It all started over a dispute over an allegedly unpaid bill at a hotel while in the United States. He had gotten into an argument with the proprietor of the Grayson Hotel and in anger he barged out and forgot his arm in a trunk that he had left. Realizing his mistake he went into the hotel and tried to retrieve it, only to get arrested (damn Americans). Now you're thinking that it's only just an arm, I mean what does an arm really do, but you don't understand how pristine this arm is. It is described by the Egyptian Gazette as "Probably no better left arm can be found in this country than the one which the Baron had. It is almost human, although it is made of papier maché, aluminium, steel and wax." They also state the usefulness saying, "The hand of it could twirl a cigarette, write checks and carry a cane". That is the equivalent of losing an Iphone 7! Not only does the baron have to deal with his lost arm, his arrest, but he also has to deal with being a witness to the death of one his friends.
