@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: blog
 subheadline: "Jordan Frazier"
 title: "Rain in the Desert"
 teaser: "How is the driest place in the world one of the most fertile?"
@@ -9,11 +9,12 @@ categories:
 author: jordanfrazier <!-- all one word -->
 tags:
   - weather <!-- list subjects of your post -->
-header: no
+header:
+    image_fullwidth: "dailyweatherreport.png"
 image: Daily Weather Report with a positive rainfall accumulation
-  title: blog-images/image-name.png <!-- for image-name.png, substitute name you've given your image file -->
-  thumb: blog-images/image-name.png
-  homepage: blog-images/image-name.png
+  title: dailyweatherreport.png <!-- for image-name.png, substitute name you've given your image file -->
+  thumb: dailyweatherreport.png
+  homepage: dailyweatherreport.png
   caption: Rain in the Nile on page 7 of the Thursday May 30th, 1906 issue <!-- info about the image, such as date of issue -->
   caption_url: https://github.com/dig-eg-gaz/content/blob/master/1906-05-30.xml <!-- link-to-page-containing-text? -->
 ---
