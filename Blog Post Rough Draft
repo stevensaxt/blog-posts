@@ -1,0 +1,24 @@
+---
+layout: page
+subheadline: "Adrian Ell"
+title: "Fashionable Wedding"
+teaser: "Captian Charlton and Miss Whitaker tie the knot."
+date: 2018-03-04
+categories:
+  - Fashionable Wedding
+author: AdrianEll
+tags:
+  - tag <!-- list subjects of your post -->
+header: Fashionable Weddings
+image:
+  title: blog-images/Fashionable Weddings.png <!-- for image-name.png, substitute name you've given your image file -->
+  thumb: blog-images/image-name.png
+  homepage: blog-images/image-name.png
+  caption: <!-- info about the image, such as date of issue -->
+  caption_url: <!-- link-to-page-containing-text? -->
+---
+
+Captain Charlton, who is an Assistant Military Secretary to the Sirdar, married Gwendoline Whitaker. Her gown was white lace and chiffon and had a white satin Court train, she wore a tulle veil and a wreath of orange blossoms and myrtle. A dress made of those same materials today is worth at least $400 depending on the style. If the dress cost $400 dollars it would convert to 7,045 Egyptian Pounds. While doing some research I found out that Princess Royal Victoria also wore a wreath of orange blossoms and myrtle in 1858. It was very popular in the 1800’s, Princess Alexandra of Denmark, Princess Helena and Princess Alice also wore one in their wedding. She also had a diamond crescent and bow brooch with aquamarine and pearl pendant. These were also very popular accessories in the mid 1800s.
+If you wish to include a second image (other than your main image, which you indicate in the header), insert a reference in the following format into the body of your post:
+
+![Egypt 1906](www.inniskillingsmuseum.com/wp-content/uploads/2015/11/Fusiliers-Corps-of-Drums-Egypt-1906.jpg)
