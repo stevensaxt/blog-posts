@@ -1,15 +1,15 @@
 ----
-layout: page
-subheadline: "Handy A Pierre"
-title: "Music Critiques"
-teaser: "Incredibly talented foreign performers"
-date: 2018-03-04
+layout: page\n
+subheadline: "Handy A Pierre"\n
+title: "Music Critiques"\n
+teaser: "Incredibly talented foreign performers"\n
+date: 2018-03-04\n
 categories:
-  - curiosities
-author: HandyAPierre
+  - curiosities\n
+author: HandyAPierre\n
 tags:
-  - tag: Critiques, Song, Music
-header: no
+  - tag: Critiques, Song, Music\n
+header: no\n
 image:
   title: blog-images/1907-03-18 (1 ).jpg <!-- for image-name.png, substitute name you've given your image file -->
   thumb: blog-images/.
@@ -17,7 +17,6 @@ image:
   caption: 1907-03-18
   caption_url: https://github.com/FlameWo/page-images/blob/master/1907-03-18%20P3%20(1%20).jpg
 ---
-Write your body text here.
 
  The critique speaks about everyone who performed at the Khedival Opera House on the night that Madame Maud Valerie
 played at after the different musicians played and sung. He seemed to have been against the common use of repetition
@@ -29,7 +28,7 @@ audience desired one more performance, so she chose to perform Rubinstein's Roma
 directly after her Saillards Bach Allegro, this was bad decision due to the level of passion he used to sing it - not
 a great amount of passion - as it caused the audience to feel un-intrigued and uninterested. The incredible Madame Maud
 Valerie began to play the piano and performed two pieces in an outstanding form, showing that she was a true musician
-and well known by the audiences and the critique. 
+and well known by the audiences and the critique.
 
 If you wish to include a second image (other than your main image, which you indicate in the header), insert a reference in the following format into the body of your post:
 
