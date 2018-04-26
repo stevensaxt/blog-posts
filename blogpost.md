@@ -28,7 +28,7 @@ Today, the cotton industry is still important in America and is still increasing
 [Empire of Cotton Review](http://www.history.ac.uk/reviews/review/1873)
 
 ##Image
-![Egyptian Cotton](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "")
+![Egyptian Cotton Field](Users/tiffanymedina/desktop/EgyptianCottonField.jpg)
 ![Article images](Users/tiffanymedina/desktop/article part 1)
 ![Article images](Users/tiffanymedina/desktop/article part 2)
 ![Article images](Users/tiffanymedina/desktop/article part 3)
