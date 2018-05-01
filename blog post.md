@@ -26,4 +26,4 @@ November 2011. The American Schools of Oriental Research. 18 April 2018.
 
 Food for Egyptian Mummies Still in Good Condition. http://www.jstor.org/stable/3921307.
 30 September 1994. Society for Science & the Public. 18 April 2018.
-![Egyptian Tomb](https://raw.githubusercontent.com/claudia5/blog-posts/master/Egyptianpicture..jpeg)
+![Egyptian Tomb](https://github.com/claudia5/blog-posts/blob/master/Screen%20Shot%202018-05-01%20at%202.17.30%20PM.png)
