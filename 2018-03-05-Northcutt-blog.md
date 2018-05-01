@@ -1,20 +1,22 @@
 ---
 layout: page
 subheadline: "Faith Northcutt"
-title: " An Actor's Nightmare"
+title: "An Actor's Nightmare"
 teaser: "What do critics really know?"
-date: 2018-03-05 <!-- March 5, 2018 -->
+date: 2018-03-05
 categories:
   - curiosities
-author: yourname <!-- faithnorthcutt -->
+author: faithnorthcutt
 tags:
-  - tag <!-- theatre, critics, reviews -->
+  - theatre
+  - critics
+  - reviews
 header: no
 image:
-  title: blog-images/Ernani-Review.png <!-- Ernani Review -->
-  thumb: blog-images/Ernani-Review.png
-  homepage: blog-images/Ernani-Review.png
-  caption: <!-- 1907-02-18 -->
+  title: blog-images/ErnaniReview.jpg
+  thumb: blog-images/ErnaniReview.jpg
+  homepage: blog-images/ErnaniReview.jpg
+  caption: 1907-02-18
   caption_url: <!-- link-to-page-containing-text -->
 ---
 As an actress myself, I understand the stress and nervousness that surrounds receiving a good review of your work.  If the critics don’t like me, will the show keep running? Will I lose my job? How can I ever become a star if I have a single, bad review? Unfortunately, for performer Sig. Battani of _Ernani_ at the Abbas Theatre, these questions may soon become a reality.  This dream-crushing review becomes a reality on the third page on the Monday issue of February 18, 1907.  At first, a reader may think that the critic is praising the actors for their work, as he says that “The fine old filibustering sentiment of “Ernani” seemed to please the performers, and more especially Sig. Arrighetti, who was in splendid form.  Sig. Lucenti was, as ever, delightful all through.”  For those actors, the fear of receiving a career-crushing review has still not come to fruition, **yet**.
