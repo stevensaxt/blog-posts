@@ -1,1 +1,1 @@
-repository of draft blog posts for transfer to [website](dig-eg-gaz.github.io)
+repository of draft blog posts for transfer to [website](https://dig-eg-gaz.github.io)
