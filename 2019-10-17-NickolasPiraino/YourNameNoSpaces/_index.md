@@ -1,9 +1,9 @@
 ---
 # Display name
-name: Your Name
+name: Nickolas Piraino
 
 authors:
-- YourNameNoSpaces
+- NickolasPiraino
 
 superuser: no
 
@@ -20,7 +20,7 @@ bio: The author, a student at Florida State University, was enrolled in the digi
 
 interests:
 
-education:
+education: Computer Science
 
 social:
 - icon: twitter
