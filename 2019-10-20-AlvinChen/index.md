@@ -19,9 +19,10 @@ Thomas Cook was an English businessman. He starts up his business from a small l
 ![thomas_cook_logo](thomas_cook_logo.jpg "Thomas Cook Logo")
 
 Throughout the course, we found Thomas Cook & Son travel company has frequent updates on their advertisements. And they also sponsored the Egyptian Gazette profoundly from the title page banner. The companies had various travel package options in the Middle East. It was the early age that civilians could afford the expenses and take ships to another continent. In parallel to the analysis of advertisement on the Egyptian Gazette by Olivia Evanoff [[2]](https://dig-eg-gaz.github.io/post/16-analysis-evanoff/), she wrote that 
-> people could “pay the fees that go along with it” in that period. 
+> people could “pay the fees that go along with it” in that period. <br />
+
 It is plausible the early 20 Century is prosperous era in economy. As the company grew, it also owned hotels in Britain primarily, Western Europe, North America, and Middle East. Suggested by a blog post by Kailen Chapple [[3]](https://dig-eg-gaz.github.io/post/18-analysis-chapple/), the company had an enormous impact in the 19th Century. 
-> It is “a new concept…a product of the industrial revolution.”
+> It is “a new concept…a product of the industrial revolution.”<br />
 
 ![company_ceases_trading](company_ceases_trading.jpg "Thomas Cook ceases trading")
 
@@ -30,8 +31,8 @@ However, the glory of this family business could not survive with the competitio
 Though it is the oldest travel company in Britain, the British government refuses to offer it bankruptcy protection. It may no longer have value to people, and the government can’t waste taxpayers’ money on a hopelessness. Let it pass with history. 
 
 <strong>Reference</strong><br />
-[[1]](https://www.telegraph.co.uk/travel/tours/history-of-thomas-cook/) History article, "The history of Thomas Cook, from tours for teetotallers to boozy packages in Spain"<br />
-[[2]](https://dig-eg-gaz.github.io/post/16-analysis-evanoff/) Blog post by Kailen Chapple, "Hotels in Cairo“<br />
-[[3]](https://dig-eg-gaz.github.io/post/18-analysis-chapple/) Blog post by Olivia Evanoff, "Advertising in Alexandria Egypt 1905"<br />
-[[4]](https://www.reuters.com/article/us-thomas-cook-grp-investment-explainer/thomas-cook-collapses-why-and-what-happens-now-idUSKBN1W804O) News article, "Thomas Cook collapses: Why and what happens now?"<br />
-[[5]](https://www.youtube.com/watch?v=rGyd8jtroHo) Youtube video, "Thomas Cook Crew Gives Emotional Speech to Passengers After Touching Down in Mancheste"
+[[1]](https://www.telegraph.co.uk/travel/tours/history-of-thomas-cook/) History article, <em>"The history of Thomas Cook, from tours for teetotallers to boozy packages in Spain"</em><br />
+[[2]](https://dig-eg-gaz.github.io/post/16-analysis-evanoff/) Blog post by Kailen Chapple, <em>"Hotels in Cairo“</em><br />
+[[3]](https://dig-eg-gaz.github.io/post/18-analysis-chapple/) Blog post by Olivia Evanoff, <em>"Advertising in Alexandria Egypt 1905"</em><br />
+[[4]](https://www.reuters.com/article/us-thomas-cook-grp-investment-explainer/thomas-cook-collapses-why-and-what-happens-now-idUSKBN1W804O) News article, <em>"Thomas Cook collapses: Why and what happens now?"</em><br />
+[[5]](https://www.youtube.com/watch?v=rGyd8jtroHo) Youtube video, <em>"Thomas Cook Crew Gives Emotional Speech to Passengers After Touching Down in Mancheste"</em>
