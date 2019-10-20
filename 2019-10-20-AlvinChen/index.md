@@ -1,7 +1,7 @@
 ---
 title: "The Down Fall of Thomas Cook Group"
 subtitle: ""
-summary: "Thomas Cook was a mainstrem travalling company with long history in England, but the recent bankruptcy strcuk down this family business."
+summary: "Thomas Cook was a mainstream travelling company with long history in England, but the recent bankruptcy struck down this family business."
 authors: [AlvinChen]
 tags: ["travel", "ThomasCook", "tourism"]
 categories: [curiosities]
