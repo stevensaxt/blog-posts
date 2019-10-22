@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ak18f
+name: AustinKim
 
 authors:
 - AustinKim
@@ -29,6 +29,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/
+  Username: ak18f
 
 user_groups:
 - Writers
