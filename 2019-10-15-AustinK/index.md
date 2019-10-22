@@ -5,16 +5,16 @@ summary: "Emotions are running low as many, not only in Luxor but also in Cairo,
 authors: [AustinKim]
 tags: ["news", "passing"]
 categories: [curiosities]
-date: YYYY-MM-DD
+date: 2019-10-22
 featured: false
 draft: false
-image:![Obituary](featured.png)
+image:[Obituary](featured.png)
   caption: "Unfortunate & unexpected passing"
   focal_point: "Smart"
   preview_only: true
 projects: []
 ---
-I was looking through my papers and noticed an interesting article that didn't seem to align with the theme of the local newsletter. In the _Egyptian Gazette_, mostly everything is generalized and for the benefit of the reader but there was a section titled *[Obituary]*(https://www.cremationsolutions.com/information/cremation-services-and-funeral-planning/how-to-write-an-obituary) and it was interesting because it was on one specific person. As I read I realized that even though she did just seem like another local, the point of the article was to show how *[every citizen is important]*(http://www.globalthinkersforum.org/our-impact/each-and-everyone-of-us-is-unique-and-important-and-no-one-is-insignificant/) and it made sure to explain how she was a quality person and her death was to be mourned as many of the locals in Luxor and Cairo cared for her.
+I was looking through my papers and noticed an interesting article that didn't seem to align with the theme of the local newsletter. In the _Egyptian Gazette_, mostly everything is generalized and for the benefit of the reader but there was a section titled *[Obituary]*(https://www.baltimoresun.com/news/bs-xpm-2002-02-17-0202160131-story.html) and it was interesting because it was on one specific person. As I read I realized that even though she did just seem like another local, the point of the article was to show how *[every citizen is important]*(http://www.globalthinkersforum.org/our-impact/each-and-everyone-of-us-is-unique-and-important-and-no-one-is-insignificant/) and it made sure to explain how she was a quality person and her death was to be mourned as many of the locals in Luxor and Cairo cared for her.
 >“Each and Everyone of Us Is Unique and Important, and No-one Is Insignificant”
 
 I find this fascinating because there are two other instances I found while browsing through the blog posts in which the _Egyptian Gazette_ has done this.
