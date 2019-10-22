@@ -1,15 +1,15 @@
 ---
 title: "<!--insert-->"
-subtitle: ""
+subtitle: "" <!--optional-->
 summary: "<!--insert-->"
 authors: [<!--YourFullNameNoSpaces-->]
-tags: ["<!--insert-->", "<!--insert-->"]
+tags: ["<!--insert-->", "<!--insert-->" <!--add more as needed-->]
 categories: [curiosities]
-date: YYYY-MM-DD
+date: YYYY-MM-DD <!--today's date-->
 featured: false
 draft: false
 image:
-  caption: "<!--insert-->"
+  caption: "<!--insert caption, perhaps including date of issue in which feature image appears-->"
   focal_point: "Smart"
   preview_only: true
 projects: []
