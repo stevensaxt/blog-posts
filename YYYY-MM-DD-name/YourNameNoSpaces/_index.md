@@ -28,7 +28,7 @@ social:
   link: https://twitter.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/<!-- your github username -->
 
 user_groups:
 - Writers
