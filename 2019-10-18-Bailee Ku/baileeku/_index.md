@@ -18,14 +18,14 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2019.
 
-interests: 
+interests:
 
 education:
 
 social: BaileeKu
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/BaileeKu
 
 user_groups:
 - Writers
