@@ -30,7 +30,7 @@ social:
   icon_pack: fab
   link: https://github.com/
 
-user_groups:
+user_groups: emilyseguin
 - Writers
 ---
 The author, a student at Florida State University, was enrolled in the digital microhistory lab in fall 2019.
