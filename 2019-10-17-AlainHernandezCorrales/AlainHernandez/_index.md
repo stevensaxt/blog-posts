@@ -2,8 +2,7 @@
 # Display name
 name: Alain Hernandez
 
-authors:
-AlainHernandez
+authors: AlainHernandez
 
 superuser: no
 
@@ -29,6 +28,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/
+  github username: ah18k
 
 user_groups:
 - Writers
