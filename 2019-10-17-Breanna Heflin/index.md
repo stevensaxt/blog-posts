@@ -9,9 +9,9 @@ date: 2019-10-17
 featured: false
 draft: false
 image: feature.jpg
-  caption:
-  focal_point: "Smart"
-  preview_only: true
+caption:
+focal_point: "Smart"
+preview_only: true
 projects: []
 ---
 >In the early 1900's casualties were in abundance due to a lack of understanding of the human body. Disease and illness became an everyday battle for those who had been discharged as “incurable” with no hope for a healthy life. Marketing ploys done for many “patented” drugs, such as “Dr. William’s Pink Pills for Pale People”, fed on this vulnerability not knowing that many diseases did not even require medical intervention.  
@@ -23,7 +23,7 @@ projects: []
 
 >One case was that of a young daughter named Sophie Caspeele who suffered from a severe case of anemia: chronic weakness, loss of appetite, and poor digestion. Claiming to cure female ailments, marketing practices such as this one, tugged on the heart strings of parents and suffering women. The pills became well-known and named for the healthy complexion that they restored to its patients.  
 
-![Sophie Caspeele](C:\Users\Breanna Heflin\Documents)
+![Sophie Caspeele](https://raw.githubusercontent.com/bmh19/blog-posts/master/2019-10-17-Breanna%20Heflin/Pink%20Pills.jpg)
 
 >Later, the famous “Pink Pills” were discovered to contain merely “extract of [Barbadoes](http://blog.wellcomelibrary.org/2015/03/dr-williams-pink-pills-for-pale-people/ ) aloes enclosed in a thick coating of sugar, colored with pink carmine”, yet continued to be sold into the 20th century. The “Pink Pills” were eventually exposed for quackery and withdrawn in the UK in 1970.  
 
