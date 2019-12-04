@@ -1,7 +1,7 @@
 ---
 title: "The Russian Revolution of 1905"
 subtitle: "Fresh insights from the Egyptian Gazette"
-summary: "insert"
+summary: "The Bloody Sunday"
 authors: [OscarNaranjo]
 tags: ["Russia", "Revolution"]
 categories: [curiosities]
@@ -35,4 +35,4 @@ Naoko SHIMAZU. “Views from the Trenches: New Year’s Truce, Bloody Sunday and
 
 Smith, S. A. The Russian Revolution : A Very Short Introduction. Oxford University Press, 2002. EBSCOhost, search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=100322&site=eds-live&scope=site.
 
-![Image label](1905russiablog.jpg "OPEN REVOLUTION IN RUSSIA: People's appeal to the Tsar. Conflicts with troops. Thousands killed!)
+![Image label](1905-01-23-p3.jpg "OPEN REVOLUTION IN RUSSIA: People's appeal to the Tsar. Conflicts with troops. Thousands killed!)
