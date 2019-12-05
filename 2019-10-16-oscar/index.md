@@ -12,7 +12,7 @@ image: ![label](feature.jpg)
   caption: "Russian workers welcome at Tsar's Palace"
   focal_point: "Smart"
   preview_only: true
-projects: []
+projects: [] 
 ---
 The Russian Revolution of 1905 began with Tsar Nicholas II attempting to transform the Russian government from an autocracy to a monarchy (Smith). His attempt for a new system of government led to political and social unrest across the Russian Empire. Although this movement originally began many years before 1905, the "Bloody Sunday" massacre on the 22nd of January of that year is known to have sparked this revolution (Shimazu). When a bunch of workers, specially the poor, took on the streets and made their way to Tsar's Palace in hopes of presenting a petition for better working conditions, they were welcomed with gunfire. Worker strikes, urban uprisings, and peasant revolts continued over the next several years (Heywood).
 
