@@ -1,6 +1,6 @@
 ---
 title: "Al-Watan and the Native Press"
-subtitle: ""
+subtitle: "A False Charge?"
 summary: "Alexandria had more than one newspaper..."
 authors: [MoriahHouse]
 tags: [government, press, natives]
@@ -9,10 +9,7 @@ date: 2019-11-21
 featured: false
 draft: false
 image: featured.jpg
-  caption: ""
-  focal_point: "Smart"
-  preview_only: true
-projects: []
+
 ---
 ####The Native Press
 ###A False Charge
@@ -23,4 +20,4 @@ In [_Lord Cromer in the 'Egyptian Gazette' _](https://dig-eg-gaz.github.io/post/
 They clearly considered it newsworthy that this event occurred in the native press, most likely because an overwhelming majority of the time Britain being slandered, not defended, by native papers.
 
 
-![image-name](image-filename.png "Caption")
+
