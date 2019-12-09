@@ -1,9 +1,8 @@
 ---
 # Display name
-name: Your Name
+name: Alain Hernandez
 
-authors:
-- YourNameNoSpaces
+authors: AlainHernandez
 
 superuser: no
 
@@ -28,7 +27,8 @@ social:
   link: https://twitter.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/<!-- your github username -->
+  link: https://github.com/
+  github username: ah18k
 
 user_groups:
 - Writers
