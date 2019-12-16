@@ -5,11 +5,11 @@ summary: "This ad in the Egyptian Gazette newspaper provides readers with a quic
 authors: [ShanezeDouglas]
 tags: ["law", "foreigners", "Egypt"]
 categories: [curiosities]
-date: 1907-07-27
+date: 2016-12-13
 featured: false
 draft: false
 image:
-  caption: "<!--insert caption, perhaps including date of issue in which feature image appears-->"
+  caption: ""
   focal_point: "Smart"
   preview_only: true
 projects: []
