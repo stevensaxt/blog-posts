@@ -1,15 +1,15 @@
 ---
 title: "The British needs to read a book"
 subtitle: "Lack of British grasp on race and Identity" 
-summary: "Imperial Britian and racism go hand and hand. Unfortunately, they also think that its just science"
+summary: "Imperial Britian and racism go hand and hand. Unfortunately, they also think that it's just science"
 authors: [TylerKolby]
-tags: ["opinion", "imperialism" "racism" <!--add more as needed-->]
+tags: ["opinion", "imperialism", "racism"]
 categories: [curiosities]
-date: 2019-11-07 <!--today's date-->
+date: 2019-11-07
 featured: false
 draft: false
 image:
-  caption: "<!--insert caption, perhaps including date of issue in which feature image appears-->"
+  caption: ""
   focal_point: "Smart"
   preview_only: true
 projects: []
