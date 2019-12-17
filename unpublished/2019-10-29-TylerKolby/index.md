@@ -27,5 +27,5 @@ I would argue that this medical advantage held by the Anglo-Saxon’s helped pro
 Daniel Arena's does a great job presenting the blatant racism found within the briths empire [here](https://dig-eg-gaz.github.io/post/18-blog-arenas/)
 
 
-#Links
+# Links
 Curtin, P. D. “‘SCIENTIFIC’ RACISM AND THE BRITISH THEORY OF EMPIRE.” Journal of the Historical Society of Nigeria, vol. 2, no. 1, 1960, pp. 40–51. JSTOR, www.jstor.org/stable/41970819.
